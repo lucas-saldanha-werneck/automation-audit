@@ -4,6 +4,6 @@
   "description": "Rank manual workflows by automation payoff from a simple CSV inventory",
   "type": "module",
   "bin": { "automation-audit": "src/cli.mjs" },
-  "scripts": { "test": "node --test test/", "demo": "node src/cli.mjs examples/sample-inventory.csv" },
+  "scripts": { "test": "node --test test/*.test.mjs", "demo": "node src/cli.mjs examples/sample-inventory.csv" },
   "license": "MIT"
 }
