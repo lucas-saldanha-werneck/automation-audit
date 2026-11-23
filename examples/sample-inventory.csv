@@ -1,0 +1,14 @@
+# EXAMPLE DATA, invented for this demo. Not from any real company.
+task,owner,runs_per_month,minutes_per_run,error_rate_pct,complexity,data_structured
+Copy invoice data from email PDFs into the ledger,Finance,160,12,6,3,partly
+Weekly energy usage report for site managers,Operations,16,90,4,2,yes
+Triage shared support inbox,Support,600,3,8,3,no
+Update CRM after sales calls,Sales,220,6,10,2,yes
+Onboard new vendor (forms and checks),Procurement,12,75,5,4,partly
+Reconcile meter readings against bills,Finance,40,35,9,3,yes
+Schedule maintenance visits by email,Operations,90,10,7,3,no
+Post monthly KPIs to leadership slides,Strategy,4,120,3,2,yes
+Answer repeated HR policy questions,People,130,5,2,2,no
+Archive signed contracts and tag them,Legal,60,8,4,1,yes
+Chase late timesheets,People,48,10,1,1,yes
+Rebuild board deck from five spreadsheets,Strategy,2,240,12,5,no
